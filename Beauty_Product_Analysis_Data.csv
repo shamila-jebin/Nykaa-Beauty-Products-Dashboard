@@ -1,0 +1,501 @@
+Product_ID,Date,Brand,Product_Name,Category,Skin_Type,Price_Range,Price,Reviews,Rating,Cruelty_Free,Quantity_Sold,Revenue
+1,2025-05-21,Kylie Cosmetics,Liquid Eyeliner,eye shadow,Dry,Premium,28.91,27118,4.4,Yes,389,11245.99
+2,2025-02-17,Kylie Cosmetics,Liquid Eyeliner,bronzer,Sensitive,Premium,39.53,7206,4.2,No,25,988.25
+3,2025-01-04,Make Up For Ever,Clay Face Mask,eyeliner,Combination,Mid-Range,41.44,73092,3.5,No,152,6298.88
+4,2025-07-03,Anastasia Beverly Hills,Matte Bronzer,primer,Oily,Budget,27.42,191544,4.0,Yes,59,1617.78
+5,2025-11-18,The Ordinary,Gentle Makeup Remover,moisturizer,Oily,Premium,34.85,50657,4.5,Yes,160,5576.0
+6,2025-02-10,Kylie Cosmetics,Gentle Makeup Remover,eye shadow,Normal,Mid-Range,38.23,73119,4.0,No,158,6040.34
+7,2025-12-10,Kiehl's,Clay Face Mask,lipstick,Normal,Premium,35.91,166705,3.5,Yes,117,4201.47
+8,2025-11-24,L'Oréal,Soft Blush,lipstick,Dry,Premium,42.36,85258,4.7,Yes,148,6269.28
+9,2025-06-11,MAC,Radiant Highlighter,eyeliner,Normal,Budget,67.53,239623,4.9,No,422,28497.66
+10,2025-11-26,Clinique,Velvet Lipstick,eyeliner,Oily,Budget,55.88,64901,4.5,No,212,11846.56
+11,2025-10-26,MAC,Volume Mascara,face mask,Dry,Budget,50.92,133819,4.1,Yes,469,23881.48
+12,2025-03-23,Maybelline,Daily Moisturizer,makeup remover,Sensitive,Budget,17.68,101114,3.9,No,331,5852.08
+13,2025-01-06,Maybelline,Clay Face Mask,blush,Normal,Premium,27.6,232191,4.2,No,293,8086.8
+14,2025-05-31,MAC,Velvet Lipstick,lip gloss,Combination,Budget,54.87,189542,4.8,No,67,3676.29
+15,2025-02-24,Maybelline,Radiant Highlighter,blush,Sensitive,Premium,63.34,52393,3.5,Yes,269,17038.46
+16,2025-09-29,Rare Beauty,Matte Bronzer,blush,Oily,Mid-Range,76.74,5355,3.4,No,482,36988.68
+17,2025-01-30,Kylie Cosmetics,Matte Bronzer,makeup remover,Normal,Budget,66.47,192115,4.1,Yes,132,8774.04
+18,2025-03-07,Maybelline,Longwear Foundation,lip gloss,Sensitive,Budget,47.29,69733,4.1,No,74,3499.46
+19,2025-12-20,Kylie Cosmetics,Clay Face Mask,eyeliner,Oily,Mid-Range,75.02,176328,4.4,No,396,29707.92
+20,2025-04-26,NARS,Volume Mascara,blush,Normal,Premium,41.6,145457,3.6,Yes,136,5657.6
+21,2025-01-31,Kylie Cosmetics,Glow Primer,serum,Normal,Mid-Range,33.87,18824,4.1,No,333,11278.71
+22,2025-03-09,L'Oréal,Matte Bronzer,eye shadow,Sensitive,Mid-Range,58.83,63950,4.6,No,286,16825.38
+23,2025-08-09,Anastasia Beverly Hills,Daily Moisturizer,eyeliner,Combination,Mid-Range,16.6,226699,4.5,Yes,347,5760.2
+24,2025-02-25,Kylie Cosmetics,Liquid Eyeliner,serum,Dry,Premium,75.33,117851,3.5,Yes,183,13785.39
+25,2025-02-08,Clinique,Glossy Lip Gloss,highlighter,Sensitive,Budget,57.01,13511,4.4,Yes,457,26053.57
+26,2025-05-02,Make Up For Ever,Daily Moisturizer,primer,Combination,Mid-Range,94.11,56282,4.8,Yes,444,41784.84
+27,2025-05-16,Clinique,Radiant Highlighter,lipstick,Combination,Premium,36.53,191747,5.0,No,209,7634.77
+28,2025-01-30,The Ordinary,Clay Face Mask,lipstick,Sensitive,Budget,23.29,196327,3.8,Yes,121,2818.09
+29,2025-09-29,Make Up For Ever,Hydrating Serum,bronzer,Sensitive,Budget,43.38,223424,3.5,Yes,480,20822.4
+30,2025-03-03,The Ordinary,Liquid Eyeliner,eye shadow,Sensitive,Premium,88.95,10668,4.3,No,216,19213.2
+31,2025-06-11,Kiehl's,Liquid Eyeliner,eye shadow,Oily,Budget,66.69,69879,3.9,No,277,18473.13
+32,2025-02-07,Rare Beauty,Longwear Foundation,foundation,Sensitive,Premium,64.52,26459,3.3,Yes,394,25420.88
+33,2025-06-28,NARS,Liquid Eyeliner,blush,Oily,Mid-Range,28.56,41602,4.0,No,487,13908.72
+34,2025-12-01,Fenty Beauty,Hydrating Serum,bronzer,Sensitive,Mid-Range,78.87,244504,4.4,Yes,423,33362.01
+35,2025-10-11,Make Up For Ever,Radiant Highlighter,highlighter,Oily,Premium,29.23,55465,4.5,Yes,64,1870.72
+36,2025-09-16,Clinique,Radiant Highlighter,eye shadow,Normal,Budget,70.74,166523,4.0,No,145,10257.3
+37,2025-03-08,Maybelline,Radiant Highlighter,serum,Dry,Premium,25.44,116074,4.2,No,404,10277.76
+38,2025-12-20,Make Up For Ever,Soft Blush,blush,Normal,Mid-Range,10.68,152951,4.2,No,48,512.64
+39,2025-01-21,Anastasia Beverly Hills,Liquid Eyeliner,lipstick,Dry,Premium,12.93,27196,3.8,No,196,2534.28
+40,2025-05-02,Make Up For Ever,Glossy Lip Gloss,bronzer,Dry,Mid-Range,62.46,6747,3.5,No,483,30168.18
+41,2025-12-09,L'Oréal,Glossy Lip Gloss,lip gloss,Dry,Mid-Range,75.16,41982,4.6,Yes,420,31567.2
+42,2025-08-29,Kylie Cosmetics,Liquid Eyeliner,moisturizer,Combination,Mid-Range,134.02,80253,4.7,Yes,449,60174.98
+43,2025-07-24,Anastasia Beverly Hills,Radiant Highlighter,eyeliner,Normal,Mid-Range,11.66,92300,4.4,No,108,1259.28
+44,2025-06-19,Rare Beauty,Glow Primer,eye shadow,Oily,Budget,98.49,152448,4.9,No,284,27971.16
+45,2025-06-26,L'Oréal,Glossy Lip Gloss,serum,Oily,Mid-Range,38.55,159164,5.0,Yes,232,8943.6
+46,2025-05-11,Rare Beauty,Clay Face Mask,moisturizer,Combination,Budget,137.44,136543,4.9,Yes,107,14706.08
+47,2025-12-07,Anastasia Beverly Hills,Matte Bronzer,mascara,Oily,Premium,40.19,222552,3.4,No,495,19894.05
+48,2025-06-17,MAC,Clay Face Mask,blush,Oily,Premium,31.65,33617,3.5,No,219,6931.35
+49,2025-11-12,The Ordinary,Radiant Highlighter,eye shadow,Combination,Premium,79.85,218806,3.2,No,99,7905.15
+50,2025-11-07,Maybelline,Volume Mascara,eyeliner,Combination,Mid-Range,40.09,116159,4.4,No,306,12267.54
+51,2025-03-28,Maybelline,Glow Primer,lip gloss,Oily,Premium,73.08,174275,4.3,No,417,30474.36
+52,2025-05-01,Maybelline,Radiant Highlighter,primer,Dry,Budget,85.47,38877,3.2,Yes,394,33675.18
+53,2025-02-07,Clinique,Daily Moisturizer,foundation,Sensitive,Budget,101.41,188560,4.5,No,403,40868.23
+54,2025-12-19,Rare Beauty,Glossy Lip Gloss,moisturizer,Normal,Mid-Range,55.5,57617,3.5,No,345,19147.5
+55,2025-03-04,Clinique,Velvet Lipstick,serum,Combination,Premium,94.68,139483,5.0,No,479,45351.72
+56,2025-09-16,MAC,Gentle Makeup Remover,lip gloss,Sensitive,Mid-Range,72.4,235447,3.5,No,323,23385.2
+57,2025-11-23,Kiehl's,Glossy Lip Gloss,foundation,Sensitive,Mid-Range,57.4,164548,3.6,No,136,7806.4
+58,2025-05-20,Anastasia Beverly Hills,Volume Mascara,primer,Sensitive,Budget,77.08,36523,3.5,No,130,10020.4
+59,2025-02-02,MAC,Daily Moisturizer,face mask,Oily,Premium,20.7,122389,3.9,Yes,119,2463.3
+60,2025-10-27,L'Oréal,Hydrating Serum,makeup remover,Sensitive,Mid-Range,39.41,125287,3.2,No,473,18640.93
+61,2025-08-03,Fenty Beauty,Clay Face Mask,highlighter,Sensitive,Premium,80.28,235605,3.6,Yes,446,35804.88
+62,2025-07-19,Anastasia Beverly Hills,Shimmer Eye Shadow,highlighter,Combination,Premium,54.87,43515,4.7,Yes,24,1316.88
+63,2025-07-21,The Ordinary,Matte Bronzer,bronzer,Normal,Budget,47.39,168742,4.0,No,474,22462.86
+64,2025-06-17,Kylie Cosmetics,Longwear Foundation,lipstick,Oily,Mid-Range,13.52,199801,4.8,No,204,2758.08
+65,2025-05-10,NARS,Longwear Foundation,lip gloss,Normal,Premium,76.58,141655,3.3,No,225,17230.5
+66,2025-11-30,Rare Beauty,Glossy Lip Gloss,eyeliner,Normal,Budget,55.51,52511,4.7,Yes,409,22703.59
+67,2025-02-28,The Ordinary,Liquid Eyeliner,eyeliner,Combination,Premium,18.84,67422,4.6,Yes,352,6631.68
+68,2025-02-28,Make Up For Ever,Radiant Highlighter,bronzer,Normal,Premium,52.51,6981,4.9,No,392,20583.92
+69,2025-02-08,The Ordinary,Clay Face Mask,moisturizer,Dry,Budget,142.68,183014,4.6,Yes,111,15837.48
+70,2025-01-22,Anastasia Beverly Hills,Soft Blush,lip gloss,Combination,Premium,78.87,97392,3.3,No,410,32336.7
+71,2025-09-08,NARS,Daily Moisturizer,serum,Oily,Premium,131.2,233971,4.7,Yes,431,56547.2
+72,2025-11-30,Kiehl's,Matte Bronzer,moisturizer,Sensitive,Mid-Range,47.02,122113,4.0,No,277,13024.54
+73,2025-02-14,Kiehl's,Longwear Foundation,mascara,Dry,Mid-Range,69.62,149632,4.3,No,435,30284.7
+74,2025-06-16,Make Up For Ever,Longwear Foundation,mascara,Dry,Mid-Range,12.01,209396,3.7,No,445,5344.45
+75,2025-10-12,Rare Beauty,Soft Blush,bronzer,Dry,Budget,59.08,63520,4.5,No,151,8921.08
+76,2025-09-01,Maybelline,Clay Face Mask,blush,Combination,Mid-Range,63.07,208112,3.2,No,363,22894.41
+77,2025-06-06,Maybelline,Matte Bronzer,eyeliner,Oily,Mid-Range,38.31,145339,4.2,No,134,5133.54
+78,2025-12-26,Clinique,Radiant Highlighter,face mask,Oily,Mid-Range,48.53,60684,3.4,Yes,190,9220.7
+79,2025-12-20,Make Up For Ever,Liquid Eyeliner,mascara,Dry,Premium,18.37,127179,3.7,No,284,5217.08
+80,2025-04-27,Anastasia Beverly Hills,Velvet Lipstick,primer,Oily,Budget,86.61,185852,4.2,No,161,13944.21
+81,2025-05-30,L'Oréal,Velvet Lipstick,serum,Combination,Budget,146.79,229028,3.2,No,293,43009.47
+82,2025-04-05,Rare Beauty,Radiant Highlighter,foundation,Combination,Budget,84.84,215762,3.3,No,184,15610.56
+83,2025-01-28,Make Up For Ever,Velvet Lipstick,primer,Sensitive,Mid-Range,66.16,22579,5.0,Yes,361,23883.76
+84,2025-11-02,The Ordinary,Liquid Eyeliner,blush,Sensitive,Mid-Range,63.51,118349,4.8,No,320,20323.2
+85,2025-06-06,The Ordinary,Matte Bronzer,makeup remover,Normal,Premium,51.2,194259,3.4,Yes,229,11724.8
+86,2025-02-11,Make Up For Ever,Liquid Eyeliner,eye shadow,Dry,Premium,36.88,19927,3.5,No,348,12834.24
+87,2025-05-30,Rare Beauty,Liquid Eyeliner,foundation,Oily,Premium,111.17,74362,4.5,No,250,27792.5
+88,2025-05-16,Maybelline,Matte Bronzer,primer,Dry,Mid-Range,74.99,30337,4.2,Yes,483,36220.17
+89,2025-01-31,Make Up For Ever,Glossy Lip Gloss,highlighter,Oily,Premium,86.13,196584,4.7,No,46,3961.98
+90,2025-06-05,L'Oréal,Daily Moisturizer,foundation,Oily,Premium,40.54,141802,4.1,Yes,362,14675.48
+91,2025-06-15,The Ordinary,Radiant Highlighter,bronzer,Normal,Budget,12.79,60261,4.9,Yes,231,2954.49
+92,2025-10-23,Rare Beauty,Glossy Lip Gloss,lip gloss,Dry,Mid-Range,57.06,136293,4.4,No,147,8387.82
+93,2025-11-22,Clinique,Glow Primer,lipstick,Combination,Mid-Range,79.79,107296,3.8,Yes,233,18591.07
+94,2025-12-22,Clinique,Radiant Highlighter,makeup remover,Combination,Premium,21.26,9869,4.0,No,220,4677.2
+95,2025-07-26,Fenty Beauty,Gentle Makeup Remover,highlighter,Normal,Premium,45.86,228149,4.2,No,405,18573.3
+96,2025-11-15,Clinique,Shimmer Eye Shadow,serum,Combination,Budget,48.45,53611,3.7,Yes,195,9447.75
+97,2025-09-06,NARS,Hydrating Serum,highlighter,Sensitive,Budget,55.05,186315,3.5,Yes,367,20203.35
+98,2025-02-28,Clinique,Glow Primer,blush,Dry,Mid-Range,38.56,244739,4.5,No,125,4820.0
+99,2025-05-05,Clinique,Soft Blush,moisturizer,Dry,Mid-Range,129.34,50217,4.9,Yes,251,32464.34
+100,2025-08-01,Anastasia Beverly Hills,Glossy Lip Gloss,makeup remover,Sensitive,Mid-Range,14.89,215352,3.2,No,405,6030.45
+101,2025-09-08,Make Up For Ever,Longwear Foundation,makeup remover,Sensitive,Mid-Range,51.09,90722,3.8,No,347,17728.23
+102,2025-04-07,L'Oréal,Liquid Eyeliner,foundation,Sensitive,Mid-Range,141.61,61476,4.7,No,455,64432.55
+103,2025-12-28,MAC,Daily Moisturizer,serum,Dry,Mid-Range,64.77,9954,3.4,No,252,16322.04
+104,2025-08-14,NARS,Soft Blush,makeup remover,Combination,Budget,17.03,189634,3.5,Yes,442,7527.26
+105,2025-06-23,The Ordinary,Clay Face Mask,primer,Combination,Premium,57.56,21304,4.7,No,145,8346.2
+106,2025-09-07,Fenty Beauty,Hydrating Serum,mascara,Sensitive,Budget,53.88,61793,4.3,No,464,25000.32
+107,2025-02-20,Maybelline,Clay Face Mask,eyeliner,Normal,Mid-Range,62.27,43861,4.4,Yes,232,14446.64
+108,2025-05-31,Anastasia Beverly Hills,Volume Mascara,serum,Combination,Budget,65.55,64264,4.2,Yes,38,2490.9
+109,2025-07-15,The Ordinary,Shimmer Eye Shadow,lipstick,Dry,Mid-Range,22.25,239542,4.2,Yes,322,7164.5
+110,2025-05-11,Maybelline,Hydrating Serum,foundation,Combination,Mid-Range,104.74,177881,4.2,Yes,245,25661.3
+111,2025-06-03,Maybelline,Daily Moisturizer,foundation,Oily,Mid-Range,143.15,221841,3.7,No,310,44376.5
+112,2025-07-15,The Ordinary,Volume Mascara,makeup remover,Sensitive,Mid-Range,43.82,183561,3.7,No,131,5740.42
+113,2025-12-18,L'Oréal,Hydrating Serum,highlighter,Sensitive,Premium,20.65,130464,4.7,No,452,9333.8
+114,2025-06-30,Kylie Cosmetics,Shimmer Eye Shadow,lip gloss,Dry,Premium,65.92,65950,4.4,Yes,320,21094.4
+115,2025-11-27,Rare Beauty,Radiant Highlighter,eye shadow,Combination,Budget,27.77,152181,3.9,Yes,331,9191.87
+116,2025-08-01,Make Up For Ever,Liquid Eyeliner,primer,Dry,Premium,92.77,230008,4.9,No,177,16420.29
+117,2025-09-04,Kiehl's,Clay Face Mask,makeup remover,Oily,Budget,21.52,123020,4.9,Yes,477,10265.04
+118,2025-12-13,L'Oréal,Shimmer Eye Shadow,lip gloss,Combination,Premium,77.66,96135,3.4,No,450,34947.0
+119,2025-08-21,Anastasia Beverly Hills,Shimmer Eye Shadow,serum,Oily,Premium,58.06,100133,4.7,No,73,4238.38
+120,2025-01-13,The Ordinary,Soft Blush,primer,Oily,Premium,73.99,58280,4.4,No,251,18571.49
+121,2025-03-01,Make Up For Ever,Hydrating Serum,face mask,Normal,Mid-Range,31.15,129388,3.4,Yes,219,6821.85
+122,2025-07-09,Maybelline,Clay Face Mask,blush,Sensitive,Mid-Range,19.5,154217,4.5,Yes,242,4719.0
+123,2025-09-08,The Ordinary,Daily Moisturizer,moisturizer,Oily,Budget,106.87,181202,3.9,No,436,46595.32
+124,2025-07-05,NARS,Shimmer Eye Shadow,foundation,Oily,Premium,143.82,236624,5.0,No,447,64287.54
+125,2025-03-04,Clinique,Glow Primer,serum,Dry,Premium,74.77,167889,4.3,Yes,107,8000.39
+126,2025-03-06,The Ordinary,Liquid Eyeliner,serum,Normal,Premium,123.35,54555,4.3,Yes,134,16528.9
+127,2025-11-02,Rare Beauty,Radiant Highlighter,mascara,Dry,Budget,64.21,141864,3.7,Yes,413,26518.73
+128,2025-03-09,Rare Beauty,Volume Mascara,primer,Dry,Premium,72.88,85124,3.2,No,23,1676.24
+129,2025-09-27,NARS,Clay Face Mask,serum,Normal,Mid-Range,40.84,117762,4.6,Yes,225,9189.0
+130,2025-11-11,Rare Beauty,Clay Face Mask,foundation,Sensitive,Mid-Range,87.98,120323,4.4,Yes,494,43462.12
+131,2025-07-25,MAC,Shimmer Eye Shadow,serum,Normal,Mid-Range,149.82,187001,4.8,Yes,443,66370.26
+132,2025-02-03,Make Up For Ever,Radiant Highlighter,primer,Sensitive,Premium,45.77,153699,4.2,No,85,3890.45
+133,2025-05-31,Clinique,Soft Blush,moisturizer,Sensitive,Mid-Range,149.33,26249,4.6,Yes,281,41961.73
+134,2025-10-10,L'Oréal,Gentle Makeup Remover,makeup remover,Dry,Mid-Range,55.83,118622,4.8,No,459,25625.97
+135,2025-08-01,L'Oréal,Glow Primer,mascara,Oily,Mid-Range,67.92,82176,4.4,No,214,14534.88
+136,2025-02-04,NARS,Gentle Makeup Remover,lipstick,Normal,Budget,58.08,113463,3.4,No,252,14636.16
+137,2025-10-28,Fenty Beauty,Soft Blush,lip gloss,Oily,Premium,19.11,32292,3.9,No,40,764.4
+138,2025-05-28,The Ordinary,Radiant Highlighter,makeup remover,Oily,Budget,74.11,151747,4.1,Yes,36,2667.96
+139,2025-02-25,Anastasia Beverly Hills,Gentle Makeup Remover,eye shadow,Sensitive,Mid-Range,58.58,30366,4.6,Yes,443,25950.94
+140,2025-11-15,The Ordinary,Shimmer Eye Shadow,lip gloss,Sensitive,Budget,40.04,159894,4.9,No,297,11891.88
+141,2025-06-08,Anastasia Beverly Hills,Volume Mascara,serum,Normal,Budget,47.55,228279,3.5,No,369,17545.95
+142,2025-01-16,NARS,Clay Face Mask,primer,Sensitive,Budget,31.35,98867,4.0,No,334,10470.9
+143,2025-06-16,The Ordinary,Matte Bronzer,lipstick,Normal,Budget,35.9,41034,3.5,Yes,379,13606.1
+144,2025-12-05,MAC,Longwear Foundation,eye shadow,Sensitive,Mid-Range,26.53,108825,3.7,Yes,236,6261.08
+145,2025-12-14,Maybelline,Matte Bronzer,mascara,Combination,Premium,40.09,175134,3.8,Yes,155,6213.95
+146,2025-01-04,Kylie Cosmetics,Radiant Highlighter,moisturizer,Dry,Budget,148.06,200570,3.7,No,38,5626.28
+147,2025-08-09,Make Up For Ever,Velvet Lipstick,primer,Combination,Premium,20.62,184713,3.6,No,392,8083.04
+148,2025-01-22,MAC,Hydrating Serum,primer,Combination,Budget,51.77,226246,3.8,No,389,20138.53
+149,2025-08-02,Kiehl's,Glow Primer,bronzer,Combination,Budget,38.31,85386,3.5,No,337,12910.47
+150,2025-02-15,MAC,Gentle Makeup Remover,makeup remover,Normal,Budget,58.27,114459,4.3,Yes,195,11362.65
+151,2025-06-23,Kylie Cosmetics,Volume Mascara,moisturizer,Dry,Budget,133.82,134070,4.3,Yes,391,52323.62
+152,2025-11-27,Make Up For Ever,Liquid Eyeliner,lip gloss,Normal,Budget,34.46,67350,3.6,Yes,382,13163.72
+153,2025-04-01,Maybelline,Longwear Foundation,lip gloss,Combination,Premium,63.14,199447,4.2,No,48,3030.72
+154,2025-03-19,Clinique,Glow Primer,makeup remover,Combination,Mid-Range,77.97,165763,3.7,No,171,13332.87
+155,2025-02-07,Kiehl's,Longwear Foundation,bronzer,Combination,Budget,13.93,15163,3.9,No,269,3747.17
+156,2025-02-16,The Ordinary,Matte Bronzer,primer,Sensitive,Mid-Range,71.57,121547,4.2,Yes,447,31991.79
+157,2025-11-30,Kylie Cosmetics,Volume Mascara,foundation,Sensitive,Mid-Range,138.63,131680,3.5,Yes,302,41866.26
+158,2025-06-25,L'Oréal,Glow Primer,foundation,Sensitive,Premium,37.94,45485,3.3,No,470,17831.8
+159,2025-03-23,Anastasia Beverly Hills,Volume Mascara,foundation,Oily,Mid-Range,90.51,107406,4.6,Yes,322,29144.22
+160,2025-02-03,Anastasia Beverly Hills,Glow Primer,lip gloss,Sensitive,Premium,54.16,101585,3.7,Yes,181,9802.96
+161,2025-03-14,Anastasia Beverly Hills,Radiant Highlighter,mascara,Combination,Budget,15.71,156236,4.5,Yes,349,5482.79
+162,2025-06-18,Make Up For Ever,Shimmer Eye Shadow,highlighter,Sensitive,Budget,64.71,169601,4.4,No,339,21936.69
+163,2025-04-20,Anastasia Beverly Hills,Glossy Lip Gloss,serum,Combination,Budget,70.32,59636,5.0,Yes,102,7172.64
+164,2025-02-21,Fenty Beauty,Glossy Lip Gloss,primer,Sensitive,Premium,43.66,231901,4.1,No,413,18031.58
+165,2025-07-12,Make Up For Ever,Velvet Lipstick,lip gloss,Dry,Premium,53.26,202388,4.3,Yes,315,16776.9
+166,2025-07-06,Maybelline,Clay Face Mask,face mask,Dry,Mid-Range,40.64,160313,3.7,No,220,8940.8
+167,2025-08-29,Kylie Cosmetics,Volume Mascara,eyeliner,Sensitive,Mid-Range,47.38,121276,4.6,No,168,7959.84
+168,2025-04-13,The Ordinary,Velvet Lipstick,blush,Oily,Budget,46.92,168331,4.1,No,92,4316.64
+169,2025-09-22,NARS,Radiant Highlighter,blush,Normal,Budget,75.4,71760,4.0,Yes,374,28199.6
+170,2025-04-24,Clinique,Volume Mascara,makeup remover,Normal,Mid-Range,40.62,14210,3.9,No,494,20066.28
+171,2025-07-11,Kylie Cosmetics,Hydrating Serum,eyeliner,Oily,Budget,37.03,220235,4.5,No,51,1888.53
+172,2025-05-27,Clinique,Clay Face Mask,lip gloss,Dry,Premium,20.22,123224,4.0,Yes,29,586.38
+173,2025-03-18,Fenty Beauty,Clay Face Mask,primer,Sensitive,Premium,21.52,111203,3.4,No,120,2582.4
+174,2025-05-03,MAC,Shimmer Eye Shadow,eyeliner,Sensitive,Mid-Range,31.08,16714,3.4,No,34,1056.72
+175,2025-09-21,The Ordinary,Liquid Eyeliner,bronzer,Dry,Mid-Range,47.52,112772,3.2,No,333,15824.16
+176,2025-12-07,Maybelline,Glow Primer,eyeliner,Sensitive,Mid-Range,49.95,17991,4.9,Yes,105,5244.75
+177,2025-11-22,MAC,Volume Mascara,moisturizer,Oily,Premium,134.17,4507,3.8,Yes,32,4293.44
+178,2025-11-18,NARS,Glossy Lip Gloss,mascara,Sensitive,Premium,26.88,198608,3.8,Yes,346,9300.48
+179,2025-11-26,Make Up For Ever,Gentle Makeup Remover,mascara,Combination,Premium,48.22,125694,4.3,Yes,426,20541.72
+180,2025-08-23,Rare Beauty,Radiant Highlighter,primer,Dry,Budget,77.28,207634,3.6,Yes,493,38099.04
+181,2025-07-23,Fenty Beauty,Longwear Foundation,mascara,Oily,Budget,75.34,197720,4.4,No,273,20567.82
+182,2025-12-02,Anastasia Beverly Hills,Radiant Highlighter,mascara,Normal,Mid-Range,70.35,114794,4.8,No,34,2391.9
+183,2025-09-12,L'Oréal,Longwear Foundation,moisturizer,Oily,Premium,67.38,70169,4.6,No,105,7074.9
+184,2025-04-03,Fenty Beauty,Radiant Highlighter,primer,Oily,Budget,54.45,21239,3.8,No,431,23467.95
+185,2025-08-07,Make Up For Ever,Clay Face Mask,highlighter,Combination,Mid-Range,55.67,117462,3.3,No,377,20987.59
+186,2025-11-24,Rare Beauty,Glow Primer,bronzer,Combination,Mid-Range,79.87,134752,4.6,Yes,150,11980.5
+187,2025-12-14,Clinique,Hydrating Serum,serum,Dry,Budget,42.85,62114,4.6,No,321,13754.85
+188,2025-01-17,The Ordinary,Velvet Lipstick,mascara,Combination,Mid-Range,36.8,97771,4.0,Yes,300,11040.0
+189,2025-07-23,Anastasia Beverly Hills,Shimmer Eye Shadow,bronzer,Oily,Budget,19.64,29989,3.2,Yes,197,3869.08
+190,2025-10-15,NARS,Radiant Highlighter,foundation,Oily,Premium,89.72,117237,3.6,No,477,42796.44
+191,2025-04-13,NARS,Velvet Lipstick,face mask,Normal,Mid-Range,74.15,45510,4.8,No,261,19353.15
+192,2025-06-13,Maybelline,Volume Mascara,primer,Normal,Premium,84.84,142376,3.7,No,442,37499.28
+193,2025-12-25,Maybelline,Velvet Lipstick,makeup remover,Oily,Premium,21.03,59033,3.4,Yes,373,7844.19
+194,2025-09-10,Rare Beauty,Volume Mascara,lip gloss,Sensitive,Premium,19.72,96957,4.0,Yes,414,8164.08
+195,2025-06-08,MAC,Clay Face Mask,bronzer,Combination,Premium,71.9,107937,4.6,Yes,43,3091.7
+196,2025-02-07,Clinique,Longwear Foundation,lipstick,Sensitive,Mid-Range,78.07,33892,4.8,Yes,338,26387.66
+197,2025-09-15,Rare Beauty,Gentle Makeup Remover,lip gloss,Normal,Premium,77.64,40362,3.7,Yes,231,17934.84
+198,2025-06-27,Fenty Beauty,Radiant Highlighter,mascara,Normal,Mid-Range,75.43,51709,4.3,No,125,9428.75
+199,2025-10-01,NARS,Soft Blush,lipstick,Dry,Premium,53.75,247086,4.2,Yes,324,17415.0
+200,2025-11-06,Anastasia Beverly Hills,Gentle Makeup Remover,eye shadow,Sensitive,Budget,69.96,216580,4.8,Yes,471,32951.16
+201,2025-10-23,Kiehl's,Shimmer Eye Shadow,serum,Dry,Premium,143.57,109455,4.3,Yes,404,58002.28
+202,2025-05-29,Maybelline,Radiant Highlighter,foundation,Combination,Budget,136.12,211194,4.7,No,289,39338.68
+203,2025-01-31,Make Up For Ever,Longwear Foundation,highlighter,Combination,Mid-Range,56.28,122000,3.6,Yes,362,20373.36
+204,2025-06-26,MAC,Velvet Lipstick,mascara,Oily,Premium,70.3,147483,3.4,Yes,173,12161.9
+205,2025-05-07,Make Up For Ever,Glow Primer,foundation,Normal,Mid-Range,40.32,248076,3.9,No,240,9676.8
+206,2025-03-23,Anastasia Beverly Hills,Matte Bronzer,eyeliner,Oily,Budget,77.39,200297,3.5,No,471,36450.69
+207,2025-01-12,NARS,Daily Moisturizer,foundation,Sensitive,Mid-Range,134.88,63355,3.6,No,264,35608.32
+208,2025-11-02,Maybelline,Shimmer Eye Shadow,serum,Combination,Mid-Range,31.32,140940,3.2,Yes,263,8237.16
+209,2025-07-07,MAC,Volume Mascara,moisturizer,Normal,Mid-Range,41.74,13660,4.2,Yes,145,6052.3
+210,2025-07-17,Fenty Beauty,Longwear Foundation,mascara,Sensitive,Mid-Range,48.73,216600,5.0,Yes,47,2290.31
+211,2025-07-11,Anastasia Beverly Hills,Soft Blush,lipstick,Oily,Budget,78.26,52431,4.3,No,211,16512.86
+212,2025-03-12,L'Oréal,Volume Mascara,blush,Combination,Premium,12.82,120046,3.5,Yes,29,371.78
+213,2025-03-25,MAC,Matte Bronzer,mascara,Oily,Premium,75.2,88428,4.1,No,173,13009.6
+214,2025-01-09,Anastasia Beverly Hills,Volume Mascara,face mask,Normal,Mid-Range,49.4,153264,3.8,Yes,253,12498.2
+215,2025-10-24,The Ordinary,Liquid Eyeliner,bronzer,Normal,Premium,43.22,126196,3.5,No,345,14910.9
+216,2025-01-17,The Ordinary,Clay Face Mask,lipstick,Normal,Budget,67.52,5214,4.0,No,134,9047.68
+217,2025-07-30,Fenty Beauty,Glossy Lip Gloss,lipstick,Sensitive,Mid-Range,38.91,229053,4.7,Yes,114,4435.74
+218,2025-10-15,Anastasia Beverly Hills,Shimmer Eye Shadow,face mask,Combination,Premium,19.67,99032,3.8,Yes,116,2281.72
+219,2025-10-07,Anastasia Beverly Hills,Shimmer Eye Shadow,foundation,Oily,Premium,139.02,127174,3.5,Yes,185,25718.7
+220,2025-06-02,Kiehl's,Clay Face Mask,highlighter,Dry,Premium,64.65,185058,4.1,No,125,8081.25
+221,2025-05-21,Kiehl's,Glow Primer,mascara,Sensitive,Premium,49.23,142644,3.9,No,488,24024.24
+222,2025-03-16,Kiehl's,Hydrating Serum,makeup remover,Oily,Premium,34.16,20967,3.8,No,405,13834.8
+223,2025-04-20,Kylie Cosmetics,Gentle Makeup Remover,eye shadow,Sensitive,Mid-Range,40.52,244836,4.2,No,255,10332.6
+224,2025-10-28,Kylie Cosmetics,Liquid Eyeliner,lipstick,Normal,Premium,17.65,237538,4.2,Yes,389,6865.85
+225,2025-08-30,NARS,Shimmer Eye Shadow,serum,Dry,Budget,37.52,144521,5.0,Yes,179,6716.08
+226,2025-09-01,Clinique,Shimmer Eye Shadow,moisturizer,Dry,Mid-Range,106.61,84442,3.7,Yes,460,49040.6
+227,2025-04-29,Fenty Beauty,Clay Face Mask,lip gloss,Normal,Budget,16.26,109796,4.8,Yes,303,4926.78
+228,2025-09-11,Make Up For Ever,Clay Face Mask,serum,Oily,Budget,149.65,2679,3.7,Yes,213,31875.45
+229,2025-10-06,Fenty Beauty,Longwear Foundation,mascara,Dry,Premium,29.92,122938,3.7,Yes,338,10112.96
+230,2025-11-28,Kiehl's,Clay Face Mask,mascara,Dry,Budget,21.37,193349,3.8,No,244,5214.28
+231,2025-03-31,The Ordinary,Gentle Makeup Remover,bronzer,Combination,Mid-Range,57.21,135327,3.8,No,108,6178.68
+232,2025-09-02,Anastasia Beverly Hills,Liquid Eyeliner,eye shadow,Normal,Mid-Range,27.63,100801,3.6,No,81,2238.03
+233,2025-10-21,Rare Beauty,Radiant Highlighter,mascara,Oily,Premium,31.14,62195,3.3,Yes,380,11833.2
+234,2025-12-18,Fenty Beauty,Clay Face Mask,foundation,Oily,Premium,63.35,31029,4.3,No,217,13746.95
+235,2025-03-10,Clinique,Velvet Lipstick,mascara,Combination,Premium,53.02,159040,3.9,No,122,6468.44
+236,2025-04-22,Kylie Cosmetics,Shimmer Eye Shadow,lip gloss,Sensitive,Budget,47.63,138008,4.0,No,350,16670.5
+237,2025-02-01,Fenty Beauty,Soft Blush,primer,Dry,Premium,93.38,140932,3.5,No,67,6256.46
+238,2025-12-15,Kylie Cosmetics,Clay Face Mask,makeup remover,Sensitive,Mid-Range,46.42,24089,4.8,No,69,3202.98
+239,2025-09-20,MAC,Longwear Foundation,lip gloss,Sensitive,Budget,13.89,146735,4.0,No,77,1069.53
+240,2025-01-02,L'Oréal,Liquid Eyeliner,face mask,Sensitive,Budget,11.52,12122,4.0,Yes,140,1612.8
+241,2025-02-05,Clinique,Hydrating Serum,blush,Oily,Mid-Range,79.59,47431,4.6,No,488,38839.92
+242,2025-08-18,MAC,Daily Moisturizer,mascara,Normal,Premium,79.5,173734,4.8,Yes,205,16297.5
+243,2025-04-02,Fenty Beauty,Daily Moisturizer,eye shadow,Sensitive,Budget,88.82,191053,5.0,Yes,70,6217.4
+244,2025-08-26,Maybelline,Clay Face Mask,lip gloss,Sensitive,Mid-Range,11.59,139693,3.9,Yes,162,1877.58
+245,2025-05-22,Kylie Cosmetics,Clay Face Mask,eyeliner,Normal,Budget,42.24,212449,4.4,Yes,89,3759.36
+246,2025-11-01,Rare Beauty,Longwear Foundation,eyeliner,Sensitive,Premium,24.43,184612,4.8,Yes,61,1490.23
+247,2025-04-30,Fenty Beauty,Liquid Eyeliner,face mask,Normal,Budget,13.1,132343,5.0,Yes,234,3065.4
+248,2025-06-13,The Ordinary,Matte Bronzer,makeup remover,Oily,Budget,74.15,79355,4.8,Yes,304,22541.6
+249,2025-10-13,The Ordinary,Clay Face Mask,moisturizer,Dry,Premium,62.56,178180,4.0,No,41,2564.96
+250,2025-11-26,Maybelline,Daily Moisturizer,serum,Sensitive,Mid-Range,146.54,182783,3.9,Yes,492,72097.68
+251,2025-10-03,Clinique,Liquid Eyeliner,highlighter,Dry,Mid-Range,50.12,225049,4.5,No,396,19847.52
+252,2025-10-13,Fenty Beauty,Velvet Lipstick,serum,Combination,Budget,95.3,67095,3.6,Yes,223,21251.9
+253,2025-10-02,L'Oréal,Gentle Makeup Remover,foundation,Dry,Budget,130.89,70625,3.9,Yes,57,7460.73
+254,2025-10-28,L'Oréal,Shimmer Eye Shadow,makeup remover,Sensitive,Budget,15.09,125920,3.6,No,421,6352.89
+255,2025-04-19,Kylie Cosmetics,Clay Face Mask,highlighter,Normal,Premium,96.56,197993,4.1,Yes,17,1641.52
+256,2025-07-23,Kylie Cosmetics,Soft Blush,face mask,Oily,Mid-Range,52.31,100038,4.0,No,114,5963.34
+257,2025-09-12,Clinique,Glow Primer,highlighter,Combination,Mid-Range,40.92,239936,3.6,No,272,11130.24
+258,2025-04-24,L'Oréal,Velvet Lipstick,moisturizer,Normal,Mid-Range,30.71,145297,4.9,No,452,13880.92
+259,2025-04-28,MAC,Matte Bronzer,highlighter,Dry,Mid-Range,32.19,144597,4.4,No,178,5729.82
+260,2025-11-25,L'Oréal,Longwear Foundation,highlighter,Combination,Budget,81.07,192341,4.6,Yes,260,21078.2
+261,2025-04-05,Fenty Beauty,Shimmer Eye Shadow,lipstick,Normal,Premium,60.42,9116,4.7,Yes,260,15709.2
+262,2025-01-04,MAC,Velvet Lipstick,makeup remover,Dry,Budget,56.78,185630,3.5,Yes,401,22768.78
+263,2025-11-13,Maybelline,Shimmer Eye Shadow,blush,Sensitive,Mid-Range,41.92,173077,4.1,Yes,40,1676.8
+264,2025-01-09,Fenty Beauty,Clay Face Mask,blush,Oily,Premium,48.62,75403,3.2,No,16,777.92
+265,2025-02-24,NARS,Soft Blush,lip gloss,Dry,Budget,75.78,50563,4.3,No,101,7653.78
+266,2025-07-23,NARS,Volume Mascara,makeup remover,Combination,Mid-Range,34.81,148361,3.6,Yes,417,14515.77
+267,2025-02-11,Maybelline,Gentle Makeup Remover,highlighter,Normal,Budget,74.72,106491,3.9,No,444,33175.68
+268,2025-03-29,NARS,Longwear Foundation,serum,Combination,Premium,104.59,205869,3.8,Yes,369,38593.71
+269,2025-04-19,L'Oréal,Matte Bronzer,blush,Combination,Mid-Range,74.34,12455,4.9,No,127,9441.18
+270,2025-04-02,Anastasia Beverly Hills,Hydrating Serum,blush,Dry,Premium,49.45,38048,4.6,No,26,1285.7
+271,2025-05-04,The Ordinary,Gentle Makeup Remover,primer,Combination,Premium,43.94,235268,4.2,No,298,13094.12
+272,2025-12-19,L'Oréal,Glow Primer,lip gloss,Sensitive,Premium,61.78,90914,3.3,No,414,25576.92
+273,2025-11-06,The Ordinary,Matte Bronzer,eyeliner,Combination,Mid-Range,68.71,8016,4.3,No,184,12642.64
+274,2025-07-12,MAC,Velvet Lipstick,foundation,Sensitive,Premium,53.52,99883,3.4,No,293,15681.36
+275,2025-02-12,Kiehl's,Velvet Lipstick,lip gloss,Combination,Premium,27.25,205742,4.3,No,47,1280.75
+276,2025-01-03,Kiehl's,Longwear Foundation,mascara,Oily,Mid-Range,35.25,27049,3.4,Yes,56,1974.0
+277,2025-09-20,MAC,Glow Primer,moisturizer,Normal,Budget,81.11,93026,4.2,No,294,23846.34
+278,2025-07-31,MAC,Glossy Lip Gloss,makeup remover,Normal,Premium,36.97,236477,4.2,Yes,159,5878.23
+279,2025-07-14,Make Up For Ever,Velvet Lipstick,bronzer,Oily,Mid-Range,46.48,70611,4.1,Yes,360,16732.8
+280,2025-06-03,Clinique,Glossy Lip Gloss,lipstick,Normal,Mid-Range,40.43,66231,4.9,No,225,9096.75
+281,2025-02-24,Make Up For Ever,Radiant Highlighter,bronzer,Normal,Mid-Range,53.17,87338,4.7,No,244,12973.48
+282,2025-06-21,MAC,Gentle Makeup Remover,lip gloss,Sensitive,Budget,70.35,79007,3.8,Yes,235,16532.25
+283,2025-06-13,Kiehl's,Clay Face Mask,foundation,Combination,Premium,64.27,205239,3.6,No,213,13689.51
+284,2025-07-06,NARS,Matte Bronzer,highlighter,Dry,Premium,85.32,143283,3.5,Yes,211,18002.52
+285,2025-04-18,Clinique,Glossy Lip Gloss,face mask,Oily,Premium,42.31,18379,4.7,No,372,15739.32
+286,2025-06-05,Kylie Cosmetics,Radiant Highlighter,eye shadow,Dry,Premium,59.94,111170,4.6,Yes,334,20019.96
+287,2025-10-26,MAC,Soft Blush,foundation,Sensitive,Premium,148.84,109905,4.2,No,255,37954.2
+288,2025-11-01,Maybelline,Glow Primer,face mask,Normal,Budget,72.69,172636,4.4,Yes,284,20643.96
+289,2025-11-27,Maybelline,Shimmer Eye Shadow,eye shadow,Combination,Mid-Range,69.01,208977,4.0,Yes,298,20564.98
+290,2025-09-23,Fenty Beauty,Matte Bronzer,primer,Sensitive,Budget,40.7,117108,3.9,No,271,11029.7
+291,2025-09-14,Make Up For Ever,Volume Mascara,lip gloss,Normal,Mid-Range,57.57,27656,3.7,Yes,363,20897.91
+292,2025-03-14,Anastasia Beverly Hills,Radiant Highlighter,primer,Oily,Mid-Range,86.51,205841,3.6,No,383,33133.33
+293,2025-12-23,Clinique,Volume Mascara,mascara,Normal,Mid-Range,43.33,11963,4.7,Yes,234,10139.22
+294,2025-02-25,Maybelline,Glossy Lip Gloss,serum,Dry,Premium,131.15,64190,4.1,Yes,341,44722.15
+295,2025-08-25,Kylie Cosmetics,Glossy Lip Gloss,mascara,Combination,Premium,49.19,48602,3.5,No,500,24595.0
+296,2025-04-12,Clinique,Matte Bronzer,moisturizer,Combination,Mid-Range,28.65,1416,4.5,Yes,324,9282.6
+297,2025-02-02,The Ordinary,Glow Primer,highlighter,Sensitive,Budget,80.19,96140,3.8,No,424,34000.56
+298,2025-09-08,Fenty Beauty,Shimmer Eye Shadow,primer,Oily,Premium,40.99,102129,4.3,Yes,451,18486.49
+299,2025-11-13,Make Up For Ever,Gentle Makeup Remover,mascara,Oily,Premium,34.64,154959,3.4,Yes,244,8452.16
+300,2025-03-01,Make Up For Ever,Volume Mascara,mascara,Dry,Premium,18.25,102083,4.0,Yes,166,3029.5
+301,2025-09-07,Maybelline,Soft Blush,bronzer,Dry,Premium,36.86,43992,4.1,Yes,105,3870.3
+302,2025-11-14,Rare Beauty,Gentle Makeup Remover,lipstick,Oily,Budget,32.02,127287,3.4,No,240,7684.8
+303,2025-07-29,Maybelline,Longwear Foundation,blush,Combination,Premium,45.38,220422,4.0,Yes,263,11934.94
+304,2025-04-23,Kiehl's,Hydrating Serum,primer,Oily,Budget,65.23,141180,3.7,No,417,27200.91
+305,2025-09-11,Fenty Beauty,Soft Blush,bronzer,Normal,Premium,61.98,30188,3.7,No,402,24915.96
+306,2025-08-14,Fenty Beauty,Liquid Eyeliner,blush,Combination,Budget,67.58,193185,4.7,Yes,31,2094.98
+307,2025-08-19,Kiehl's,Volume Mascara,highlighter,Normal,Mid-Range,89.98,227080,5.0,Yes,26,2339.48
+308,2025-12-19,Anastasia Beverly Hills,Gentle Makeup Remover,eyeliner,Sensitive,Premium,66.75,112491,3.5,Yes,311,20759.25
+309,2025-01-31,The Ordinary,Volume Mascara,lip gloss,Sensitive,Mid-Range,24.46,156712,4.2,No,115,2812.9
+310,2025-05-17,Fenty Beauty,Shimmer Eye Shadow,face mask,Normal,Budget,30.48,196882,4.6,Yes,303,9235.44
+311,2025-12-26,Make Up For Ever,Liquid Eyeliner,highlighter,Dry,Premium,89.36,84685,4.7,No,74,6612.64
+312,2025-05-18,Maybelline,Daily Moisturizer,foundation,Combination,Mid-Range,42.77,20046,4.3,Yes,333,14242.41
+313,2025-12-22,Anastasia Beverly Hills,Longwear Foundation,moisturizer,Combination,Mid-Range,89.45,152806,3.2,Yes,152,13596.4
+314,2025-12-07,L'Oréal,Volume Mascara,face mask,Normal,Premium,78.05,104508,3.6,No,335,26146.75
+315,2025-06-15,Kiehl's,Volume Mascara,makeup remover,Sensitive,Premium,24.83,34484,4.2,No,147,3650.01
+316,2025-01-25,Rare Beauty,Glow Primer,lip gloss,Combination,Budget,34.06,32818,4.9,Yes,359,12227.54
+317,2025-08-08,Kylie Cosmetics,Clay Face Mask,foundation,Dry,Premium,82.06,79382,3.5,No,500,41030.0
+318,2025-02-12,Anastasia Beverly Hills,Shimmer Eye Shadow,primer,Dry,Budget,72.37,104148,4.3,Yes,138,9987.06
+319,2025-02-18,Rare Beauty,Liquid Eyeliner,moisturizer,Combination,Budget,106.94,35036,4.3,No,370,39567.8
+320,2025-03-03,MAC,Clay Face Mask,serum,Dry,Mid-Range,26.01,18817,3.6,Yes,185,4811.85
+321,2025-06-10,Anastasia Beverly Hills,Radiant Highlighter,face mask,Dry,Mid-Range,66.42,203008,4.7,Yes,62,4118.04
+322,2025-02-05,Fenty Beauty,Matte Bronzer,eye shadow,Normal,Premium,99.44,170648,3.5,No,83,8253.52
+323,2025-03-19,MAC,Matte Bronzer,face mask,Combination,Budget,24.91,22974,4.8,Yes,393,9789.63
+324,2025-07-16,Anastasia Beverly Hills,Daily Moisturizer,lip gloss,Oily,Budget,18.62,65205,3.7,Yes,383,7131.46
+325,2025-11-08,Kiehl's,Glossy Lip Gloss,eyeliner,Normal,Premium,48.74,229842,3.7,Yes,317,15450.58
+326,2025-01-28,Kylie Cosmetics,Longwear Foundation,face mask,Combination,Budget,37.42,63448,4.1,Yes,340,12722.8
+327,2025-07-04,Anastasia Beverly Hills,Velvet Lipstick,blush,Combination,Premium,72.21,110576,3.9,Yes,16,1155.36
+328,2025-02-07,Rare Beauty,Matte Bronzer,lip gloss,Normal,Budget,42.97,68980,3.6,Yes,404,17359.88
+329,2025-11-18,L'Oréal,Soft Blush,lip gloss,Combination,Mid-Range,37.86,184225,3.9,Yes,156,5906.16
+330,2025-09-19,Kylie Cosmetics,Glossy Lip Gloss,highlighter,Dry,Premium,26.69,85905,3.9,Yes,50,1334.5
+331,2025-05-03,Rare Beauty,Liquid Eyeliner,highlighter,Normal,Mid-Range,75.89,30655,4.0,Yes,383,29065.87
+332,2025-03-31,NARS,Hydrating Serum,highlighter,Dry,Premium,73.29,3225,3.5,No,346,25358.34
+333,2025-05-13,Make Up For Ever,Volume Mascara,blush,Dry,Premium,46.21,205016,4.8,Yes,431,19916.51
+334,2025-08-08,Kiehl's,Soft Blush,lip gloss,Normal,Mid-Range,72.99,186981,5.0,Yes,181,13211.19
+335,2025-01-29,Clinique,Gentle Makeup Remover,foundation,Sensitive,Budget,81.9,96637,3.5,Yes,194,15888.6
+336,2025-04-27,L'Oréal,Soft Blush,bronzer,Normal,Budget,57.19,225350,4.8,Yes,69,3946.11
+337,2025-03-18,Make Up For Ever,Gentle Makeup Remover,serum,Normal,Premium,83.97,210781,4.8,No,206,17297.82
+338,2025-06-13,Kiehl's,Gentle Makeup Remover,eyeliner,Normal,Premium,32.53,97979,3.4,Yes,223,7254.19
+339,2025-01-24,MAC,Glow Primer,lipstick,Combination,Mid-Range,25.62,203025,4.7,No,274,7019.88
+340,2025-07-08,Kylie Cosmetics,Radiant Highlighter,primer,Sensitive,Mid-Range,64.25,194125,4.3,No,14,899.5
+341,2025-04-11,L'Oréal,Soft Blush,mascara,Dry,Budget,51.42,1921,4.9,Yes,262,13472.04
+342,2025-12-22,Rare Beauty,Volume Mascara,eyeliner,Normal,Premium,47.91,98888,4.7,No,335,16049.85
+343,2025-08-03,Clinique,Hydrating Serum,primer,Dry,Premium,36.42,73604,3.4,Yes,131,4771.02
+344,2025-07-10,Clinique,Clay Face Mask,makeup remover,Normal,Premium,46.38,25304,4.1,No,368,17067.84
+345,2025-08-11,Maybelline,Velvet Lipstick,primer,Dry,Mid-Range,67.35,68667,4.7,No,41,2761.35
+346,2025-06-12,Clinique,Radiant Highlighter,face mask,Dry,Budget,68.23,247597,3.6,Yes,177,12076.71
+347,2025-08-27,Anastasia Beverly Hills,Daily Moisturizer,lipstick,Normal,Premium,17.4,94172,4.9,Yes,240,4176.0
+348,2025-03-03,NARS,Velvet Lipstick,foundation,Oily,Premium,63.54,182932,4.3,Yes,145,9213.3
+349,2025-02-16,L'Oréal,Liquid Eyeliner,makeup remover,Oily,Mid-Range,69.96,134850,3.3,No,85,5946.6
+350,2025-01-16,MAC,Gentle Makeup Remover,highlighter,Combination,Premium,85.61,196354,4.2,Yes,99,8475.39
+351,2025-03-13,NARS,Hydrating Serum,foundation,Normal,Budget,37.74,34516,3.6,No,416,15699.84
+352,2025-11-27,NARS,Matte Bronzer,mascara,Sensitive,Mid-Range,58.04,240748,4.7,Yes,490,28439.6
+353,2025-08-16,Make Up For Ever,Glow Primer,primer,Oily,Budget,35.82,11442,4.9,Yes,340,12178.8
+354,2025-07-22,Clinique,Hydrating Serum,lipstick,Combination,Premium,74.69,112097,3.5,Yes,231,17253.39
+355,2025-03-18,Rare Beauty,Matte Bronzer,lipstick,Sensitive,Premium,29.25,64681,4.4,No,238,6961.5
+356,2025-02-01,NARS,Radiant Highlighter,moisturizer,Combination,Budget,135.35,110149,3.6,Yes,255,34514.25
+357,2025-01-10,MAC,Glossy Lip Gloss,eye shadow,Oily,Mid-Range,99.53,142992,4.6,No,288,28664.64
+358,2025-05-19,Make Up For Ever,Hydrating Serum,bronzer,Oily,Premium,45.17,57664,3.3,No,208,9395.36
+359,2025-09-29,Anastasia Beverly Hills,Glossy Lip Gloss,serum,Sensitive,Budget,126.08,42094,3.4,Yes,251,31646.08
+360,2025-01-29,Kylie Cosmetics,Matte Bronzer,highlighter,Combination,Mid-Range,62.7,245408,4.7,Yes,415,26020.5
+361,2025-12-24,Anastasia Beverly Hills,Matte Bronzer,lipstick,Normal,Premium,26.56,183897,3.8,Yes,172,4568.32
+362,2025-09-10,Fenty Beauty,Radiant Highlighter,bronzer,Dry,Mid-Range,76.39,10201,3.4,Yes,438,33458.82
+363,2025-09-02,Rare Beauty,Volume Mascara,bronzer,Sensitive,Budget,25.32,211654,3.4,Yes,279,7064.28
+364,2025-01-31,Rare Beauty,Velvet Lipstick,lip gloss,Sensitive,Premium,69.1,240694,3.5,Yes,175,12092.5
+365,2025-02-07,Anastasia Beverly Hills,Clay Face Mask,makeup remover,Combination,Premium,46.84,26734,3.8,No,196,9180.64
+366,2025-08-12,Maybelline,Longwear Foundation,lipstick,Oily,Budget,78.31,185633,4.9,No,384,30071.04
+367,2025-03-31,MAC,Radiant Highlighter,eyeliner,Oily,Budget,56.59,46835,4.5,No,427,24163.93
+368,2025-01-17,Make Up For Ever,Matte Bronzer,makeup remover,Oily,Premium,79.6,58156,4.4,Yes,300,23880.0
+369,2025-02-09,Kylie Cosmetics,Volume Mascara,foundation,Oily,Budget,42.58,167022,4.8,Yes,391,16648.78
+370,2025-06-21,Clinique,Hydrating Serum,makeup remover,Oily,Budget,59.63,65665,4.4,No,337,20095.31
+371,2025-01-01,Rare Beauty,Daily Moisturizer,highlighter,Combination,Premium,82.96,110259,4.9,No,378,31358.88
+372,2025-10-07,MAC,Glow Primer,foundation,Combination,Premium,135.22,170897,4.6,Yes,189,25556.58
+373,2025-01-18,Kiehl's,Hydrating Serum,lipstick,Oily,Mid-Range,41.59,249722,3.4,No,419,17426.21
+374,2025-02-08,Fenty Beauty,Glow Primer,lipstick,Oily,Premium,72.16,161113,4.8,Yes,92,6638.72
+375,2025-11-07,MAC,Velvet Lipstick,moisturizer,Normal,Budget,142.81,87044,3.6,Yes,94,13424.14
+376,2025-10-04,Kiehl's,Shimmer Eye Shadow,moisturizer,Oily,Mid-Range,112.15,62521,3.4,No,379,42504.85
+377,2025-03-20,Rare Beauty,Volume Mascara,bronzer,Normal,Mid-Range,48.48,23221,3.7,No,261,12653.28
+378,2025-03-29,Maybelline,Radiant Highlighter,eyeliner,Normal,Mid-Range,16.79,221439,3.4,No,115,1930.85
+379,2025-05-16,NARS,Shimmer Eye Shadow,foundation,Sensitive,Mid-Range,86.14,48715,3.9,No,348,29976.72
+380,2025-05-15,Clinique,Longwear Foundation,mascara,Oily,Budget,23.06,219685,3.7,Yes,32,737.92
+381,2025-02-19,NARS,Shimmer Eye Shadow,lipstick,Oily,Premium,62.66,108774,4.9,Yes,351,21993.66
+382,2025-09-25,MAC,Soft Blush,blush,Combination,Premium,14.27,231370,3.6,No,208,2968.16
+383,2025-01-18,Fenty Beauty,Matte Bronzer,primer,Sensitive,Premium,51.58,177861,5.0,Yes,447,23056.26
+384,2025-03-30,Make Up For Ever,Liquid Eyeliner,primer,Dry,Budget,95.94,11437,4.0,No,239,22929.66
+385,2025-03-17,The Ordinary,Radiant Highlighter,eyeliner,Oily,Premium,79.81,239895,4.7,Yes,331,26417.11
+386,2025-06-16,Kiehl's,Soft Blush,moisturizer,Combination,Budget,94.55,206439,4.5,No,292,27608.6
+387,2025-10-18,The Ordinary,Matte Bronzer,primer,Normal,Budget,53.16,147754,4.6,No,85,4518.6
+388,2025-07-30,Kiehl's,Daily Moisturizer,makeup remover,Combination,Premium,47.49,159885,4.1,Yes,186,8833.14
+389,2025-11-08,Maybelline,Clay Face Mask,highlighter,Combination,Budget,52.24,104004,4.8,No,326,17030.24
+390,2025-09-01,Kiehl's,Volume Mascara,face mask,Normal,Mid-Range,26.63,214522,4.6,No,391,10412.33
+391,2025-12-23,Maybelline,Glow Primer,highlighter,Dry,Budget,87.43,79019,5.0,No,449,39256.07
+392,2025-08-02,The Ordinary,Shimmer Eye Shadow,lip gloss,Normal,Budget,67.81,116043,3.6,No,147,9968.07
+393,2025-07-11,Rare Beauty,Soft Blush,face mask,Dry,Budget,43.91,81809,4.5,No,274,12031.34
+394,2025-10-19,Rare Beauty,Velvet Lipstick,lipstick,Dry,Budget,64.64,219658,3.3,Yes,278,17969.92
+395,2025-12-27,Kylie Cosmetics,Radiant Highlighter,foundation,Oily,Mid-Range,31.32,132665,3.9,Yes,194,6076.08
+396,2025-09-08,The Ordinary,Longwear Foundation,eye shadow,Dry,Mid-Range,22.45,154097,4.2,No,200,4490.0
+397,2025-12-19,NARS,Radiant Highlighter,lipstick,Normal,Mid-Range,68.64,13265,3.5,Yes,142,9746.88
+398,2025-12-13,Kylie Cosmetics,Radiant Highlighter,makeup remover,Combination,Premium,25.49,5506,4.8,Yes,125,3186.25
+399,2025-03-30,The Ordinary,Glossy Lip Gloss,foundation,Normal,Budget,138.94,66412,4.3,No,341,47378.54
+400,2025-05-21,MAC,Daily Moisturizer,face mask,Oily,Mid-Range,77.69,66309,3.6,No,339,26336.91
+401,2025-07-23,The Ordinary,Glow Primer,eye shadow,Normal,Premium,61.65,173882,4.9,No,329,20282.85
+402,2025-05-25,Kiehl's,Shimmer Eye Shadow,blush,Normal,Mid-Range,55.31,16984,3.8,No,321,17754.51
+403,2025-05-14,Maybelline,Clay Face Mask,eye shadow,Oily,Budget,46.01,39553,4.1,Yes,151,6947.51
+404,2025-11-04,MAC,Shimmer Eye Shadow,serum,Oily,Premium,125.68,36931,4.5,No,420,52785.6
+405,2025-07-27,MAC,Clay Face Mask,highlighter,Normal,Premium,40.75,185866,5.0,Yes,224,9128.0
+406,2025-12-18,Fenty Beauty,Shimmer Eye Shadow,mascara,Combination,Premium,60.86,94227,4.1,Yes,123,7485.78
+407,2025-04-03,Kiehl's,Glow Primer,makeup remover,Combination,Budget,56.03,194477,3.7,Yes,295,16528.85
+408,2025-02-15,Kylie Cosmetics,Volume Mascara,eye shadow,Dry,Premium,91.97,228690,3.8,No,345,31729.65
+409,2025-08-26,NARS,Longwear Foundation,mascara,Normal,Premium,28.24,153230,4.2,Yes,160,4518.4
+410,2025-03-03,Maybelline,Daily Moisturizer,foundation,Sensitive,Mid-Range,136.18,108543,3.3,Yes,266,36223.88
+411,2025-07-29,The Ordinary,Longwear Foundation,lipstick,Dry,Mid-Range,79.46,226321,4.5,Yes,185,14700.1
+412,2025-06-10,Maybelline,Hydrating Serum,foundation,Normal,Mid-Range,66.58,71953,3.6,Yes,100,6658.0
+413,2025-02-15,Make Up For Ever,Matte Bronzer,bronzer,Combination,Premium,63.51,112817,3.9,No,260,16512.6
+414,2025-04-13,L'Oréal,Volume Mascara,moisturizer,Normal,Mid-Range,25.58,198653,4.7,Yes,283,7239.14
+415,2025-05-08,Kylie Cosmetics,Clay Face Mask,serum,Oily,Mid-Range,109.59,34048,3.4,No,330,36164.7
+416,2025-06-02,Kiehl's,Longwear Foundation,lipstick,Sensitive,Premium,14.57,137644,3.8,Yes,33,480.81
+417,2025-07-03,Kylie Cosmetics,Velvet Lipstick,mascara,Combination,Budget,79.73,60128,3.6,Yes,260,20729.8
+418,2025-09-16,Make Up For Ever,Glow Primer,eyeliner,Oily,Premium,61.39,170785,4.6,No,311,19092.29
+419,2025-11-16,Rare Beauty,Matte Bronzer,eye shadow,Normal,Premium,40.46,28591,4.4,Yes,283,11450.18
+420,2025-08-16,MAC,Glow Primer,serum,Sensitive,Mid-Range,111.22,124610,4.5,Yes,223,24802.06
+421,2025-06-04,MAC,Shimmer Eye Shadow,face mask,Normal,Premium,58.0,136645,3.7,Yes,14,812.0
+422,2025-09-19,L'Oréal,Matte Bronzer,moisturizer,Normal,Mid-Range,128.83,30137,4.6,No,63,8116.29
+423,2025-05-15,Fenty Beauty,Liquid Eyeliner,eyeliner,Oily,Premium,52.63,107665,3.7,Yes,408,21473.04
+424,2025-12-19,Clinique,Volume Mascara,blush,Dry,Budget,44.74,3592,4.4,Yes,116,5189.84
+425,2025-03-18,NARS,Glossy Lip Gloss,makeup remover,Sensitive,Budget,50.19,189927,4.5,No,262,13149.78
+426,2025-05-16,Clinique,Hydrating Serum,eye shadow,Normal,Budget,38.49,229400,3.3,No,161,6196.89
+427,2025-08-07,L'Oréal,Glow Primer,mascara,Normal,Budget,66.11,2785,4.7,Yes,170,11238.7
+428,2025-11-15,Kiehl's,Clay Face Mask,mascara,Normal,Mid-Range,35.03,213887,3.8,Yes,234,8197.02
+429,2025-05-20,MAC,Clay Face Mask,moisturizer,Combination,Mid-Range,75.03,170341,4.8,Yes,243,18232.29
+430,2025-01-31,Make Up For Ever,Glow Primer,primer,Combination,Premium,30.6,126780,4.6,No,381,11658.6
+431,2025-07-03,The Ordinary,Hydrating Serum,lipstick,Dry,Mid-Range,52.79,241526,4.1,No,408,21538.32
+432,2025-12-02,Anastasia Beverly Hills,Hydrating Serum,foundation,Sensitive,Premium,30.75,151415,4.5,Yes,143,4397.25
+433,2025-09-25,L'Oréal,Clay Face Mask,eye shadow,Sensitive,Budget,89.85,113718,4.4,Yes,275,24708.75
+434,2025-11-25,MAC,Velvet Lipstick,foundation,Sensitive,Premium,68.22,14554,3.2,Yes,356,24286.32
+435,2025-09-11,Make Up For Ever,Glow Primer,blush,Combination,Mid-Range,69.42,63398,3.8,No,446,30961.32
+436,2025-11-26,MAC,Daily Moisturizer,serum,Dry,Budget,88.37,120598,4.0,No,291,25715.67
+437,2025-06-11,NARS,Longwear Foundation,primer,Normal,Budget,88.53,106009,3.9,Yes,238,21070.14
+438,2025-11-13,Maybelline,Radiant Highlighter,makeup remover,Sensitive,Premium,16.36,54474,4.4,No,319,5218.84
+439,2025-04-25,Clinique,Volume Mascara,mascara,Sensitive,Premium,35.43,157523,4.1,No,37,1310.91
+440,2025-12-04,Kylie Cosmetics,Hydrating Serum,face mask,Oily,Mid-Range,41.68,217799,4.3,No,59,2459.12
+441,2025-02-24,Rare Beauty,Velvet Lipstick,blush,Combination,Budget,46.54,215690,4.5,No,369,17173.26
+442,2025-04-07,NARS,Gentle Makeup Remover,primer,Combination,Budget,40.34,120061,4.7,Yes,110,4437.4
+443,2025-08-01,Rare Beauty,Shimmer Eye Shadow,face mask,Sensitive,Budget,33.66,202663,4.8,No,397,13363.02
+444,2025-03-10,Clinique,Hydrating Serum,eye shadow,Sensitive,Premium,67.15,12982,4.2,No,268,17996.2
+445,2025-09-18,Make Up For Ever,Clay Face Mask,makeup remover,Sensitive,Budget,50.96,191744,4.7,Yes,483,24613.68
+446,2025-06-14,Fenty Beauty,Daily Moisturizer,moisturizer,Combination,Premium,107.19,240350,4.4,Yes,320,34300.8
+447,2025-05-31,Clinique,Glossy Lip Gloss,highlighter,Dry,Budget,51.83,108448,4.3,No,185,9588.55
+448,2025-06-10,L'Oréal,Clay Face Mask,makeup remover,Sensitive,Premium,59.1,57225,3.6,No,450,26595.0
+449,2025-03-09,L'Oréal,Shimmer Eye Shadow,eye shadow,Dry,Premium,47.62,142460,4.4,No,354,16857.48
+450,2025-10-15,Clinique,Matte Bronzer,face mask,Sensitive,Premium,18.08,186404,4.0,No,190,3435.2
+451,2025-09-25,NARS,Hydrating Serum,makeup remover,Combination,Budget,39.57,14160,4.4,Yes,16,633.12
+452,2025-05-27,Maybelline,Radiant Highlighter,highlighter,Dry,Budget,80.01,181285,4.6,Yes,92,7360.92
+453,2025-08-20,NARS,Matte Bronzer,lip gloss,Sensitive,Budget,47.88,194869,4.4,No,193,9240.84
+454,2025-12-23,Kiehl's,Clay Face Mask,eyeliner,Normal,Mid-Range,45.76,101845,3.9,No,417,19081.92
+455,2025-05-09,Kylie Cosmetics,Matte Bronzer,blush,Combination,Budget,13.77,239190,4.3,No,390,5370.3
+456,2025-11-05,Kylie Cosmetics,Glossy Lip Gloss,lip gloss,Dry,Mid-Range,51.19,117904,3.5,Yes,388,19861.72
+457,2025-09-21,NARS,Daily Moisturizer,lipstick,Normal,Mid-Range,77.37,73417,4.2,Yes,386,29864.82
+458,2025-01-03,Anastasia Beverly Hills,Longwear Foundation,lipstick,Dry,Budget,50.88,40542,4.9,Yes,140,7123.2
+459,2025-12-05,Kiehl's,Longwear Foundation,lip gloss,Sensitive,Premium,75.27,94119,3.3,No,325,24462.75
+460,2025-09-24,NARS,Glossy Lip Gloss,blush,Sensitive,Budget,25.4,109283,4.2,No,104,2641.6
+461,2025-04-20,Maybelline,Volume Mascara,primer,Oily,Mid-Range,47.95,77208,3.6,No,462,22152.9
+462,2025-01-05,NARS,Shimmer Eye Shadow,blush,Oily,Mid-Range,67.66,63255,4.8,Yes,342,23139.72
+463,2025-07-15,NARS,Daily Moisturizer,serum,Oily,Premium,110.32,190035,3.7,No,174,19195.68
+464,2025-09-07,Rare Beauty,Radiant Highlighter,blush,Dry,Mid-Range,66.2,134964,3.3,Yes,238,15755.6
+465,2025-10-03,Fenty Beauty,Hydrating Serum,lipstick,Normal,Budget,78.01,175974,4.3,Yes,405,31594.05
+466,2025-02-23,Kylie Cosmetics,Soft Blush,makeup remover,Combination,Premium,57.98,214357,4.9,Yes,437,25337.26
+467,2025-01-20,NARS,Glow Primer,serum,Normal,Budget,82.4,208448,3.7,Yes,179,14749.6
+468,2025-05-13,MAC,Daily Moisturizer,bronzer,Combination,Premium,67.51,106273,4.0,Yes,476,32134.76
+469,2025-01-04,Maybelline,Clay Face Mask,moisturizer,Sensitive,Budget,109.16,198420,4.5,Yes,283,30892.28
+470,2025-09-15,NARS,Radiant Highlighter,face mask,Oily,Premium,69.38,22926,3.7,No,193,13390.34
+471,2025-01-16,Clinique,Velvet Lipstick,moisturizer,Sensitive,Budget,74.39,36001,4.5,No,348,25887.72
+472,2025-11-28,Anastasia Beverly Hills,Hydrating Serum,eye shadow,Sensitive,Premium,31.53,37310,3.4,Yes,356,11224.68
+473,2025-10-08,NARS,Radiant Highlighter,bronzer,Dry,Premium,51.77,194611,4.8,No,285,14754.45
+474,2025-09-20,Make Up For Ever,Velvet Lipstick,eyeliner,Dry,Budget,38.89,161962,4.7,Yes,340,13222.6
+475,2025-10-18,Rare Beauty,Gentle Makeup Remover,primer,Sensitive,Mid-Range,34.51,169247,4.2,No,419,14459.69
+476,2025-04-12,L'Oréal,Matte Bronzer,eye shadow,Combination,Mid-Range,25.39,93871,3.4,Yes,60,1523.4
+477,2025-04-10,Anastasia Beverly Hills,Longwear Foundation,primer,Combination,Mid-Range,42.81,161820,4.4,Yes,45,1926.45
+478,2025-06-11,MAC,Velvet Lipstick,bronzer,Normal,Mid-Range,49.68,64783,4.6,No,423,21014.64
+479,2025-12-14,L'Oréal,Volume Mascara,highlighter,Combination,Mid-Range,87.21,116997,3.8,No,78,6802.38
+480,2025-11-27,The Ordinary,Glow Primer,foundation,Oily,Budget,93.96,233898,4.2,No,99,9302.04
+481,2025-02-08,Rare Beauty,Gentle Makeup Remover,face mask,Sensitive,Premium,72.04,8427,4.7,No,49,3529.96
+482,2025-01-19,Fenty Beauty,Radiant Highlighter,lip gloss,Sensitive,Premium,51.3,124009,4.4,Yes,474,24316.2
+483,2025-10-29,L'Oréal,Gentle Makeup Remover,mascara,Oily,Budget,37.47,122068,4.1,Yes,466,17461.02
+484,2025-12-06,Kylie Cosmetics,Gentle Makeup Remover,moisturizer,Sensitive,Premium,70.48,43724,4.6,Yes,15,1057.2
+485,2025-10-17,Maybelline,Gentle Makeup Remover,foundation,Dry,Premium,44.9,192140,4.1,No,299,13425.1
+486,2025-04-29,NARS,Radiant Highlighter,serum,Oily,Budget,52.35,11471,4.4,No,259,13558.65
+487,2025-01-24,Rare Beauty,Shimmer Eye Shadow,moisturizer,Oily,Budget,83.71,184730,4.9,No,242,20257.82
+488,2025-10-06,The Ordinary,Velvet Lipstick,makeup remover,Combination,Premium,61.93,99476,3.9,Yes,306,18950.58
+489,2025-04-25,Fenty Beauty,Daily Moisturizer,blush,Oily,Mid-Range,27.61,127877,4.6,Yes,474,13087.14
+490,2025-03-26,Kylie Cosmetics,Glow Primer,blush,Sensitive,Premium,71.74,73862,3.6,Yes,235,16858.9
+491,2025-03-02,Maybelline,Liquid Eyeliner,lipstick,Combination,Mid-Range,35.36,189060,3.4,No,377,13330.72
+492,2025-11-28,MAC,Hydrating Serum,foundation,Dry,Budget,51.34,33774,4.2,Yes,92,4723.28
+493,2025-10-21,Make Up For Ever,Hydrating Serum,lipstick,Dry,Mid-Range,54.07,242063,3.5,No,30,1622.1
+494,2025-01-10,L'Oréal,Clay Face Mask,bronzer,Oily,Budget,77.85,57028,4.0,No,336,26157.6
+495,2025-07-30,The Ordinary,Velvet Lipstick,makeup remover,Sensitive,Budget,43.72,163621,4.4,No,122,5333.84
+496,2025-08-21,The Ordinary,Matte Bronzer,lipstick,Normal,Budget,60.69,99395,3.9,Yes,185,11227.65
+497,2025-09-16,Maybelline,Daily Moisturizer,serum,Dry,Premium,50.29,25494,3.5,Yes,450,22630.5
+498,2025-03-02,NARS,Longwear Foundation,lip gloss,Dry,Premium,47.2,141620,4.7,No,395,18644.0
+499,2025-01-23,L'Oréal,Soft Blush,blush,Combination,Budget,39.45,246251,4.6,No,457,18028.65
+500,2025-12-23,The Ordinary,Glow Primer,mascara,Combination,Budget,51.23,66970,4.1,Yes,389,19928.47
